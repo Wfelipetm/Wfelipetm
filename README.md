@@ -1,4 +1,4 @@
-## Olá! Eu sou O Wallace Tavares, aluno do curso de Desenvolvedor Full stack!
+## Olá! Me chamo Wallace Tavares.
 
 
 <div align="">
