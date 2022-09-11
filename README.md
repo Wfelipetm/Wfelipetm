@@ -1,10 +1,13 @@
 ## Olá! Me chamo Wallace Tavares.
 
   Sobre mim: </h3>
+   <img align="right" width="200" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-- 🤔 &nbsp; Explorando novas tecnologias.
+- 🤔 &nbsp; Explorando novas tecnologias. 
 - 🎓 &nbsp; Estudando **Desenvolvimento Full Stack** na <a href="https://estacio.br/cursos/graduacao/desenvolvimento-full-stack">Estácio</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Python**.
+
+
 
 <div align="">
   <a href="https://github.com/Wfelipetm">
@@ -23,6 +26,9 @@
   <a href = "mailto:wfelipetm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wallace-tavares-356897a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+
+ 
+   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
