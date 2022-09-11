@@ -1,5 +1,10 @@
 ## Olá! Me chamo Wallace Tavares.
 
+  Sobre mim: </h3>
+
+- 🤔 &nbsp; Explorando novas tecnologias.
+- 🎓 &nbsp; Estudando **Desenvolvimento Full Stack** na <a href="https://estacio.br/cursos/graduacao/desenvolvimento-full-stack">Estácio</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **Python**.
 
 <div align="">
   <a href="https://github.com/Wfelipetm">
