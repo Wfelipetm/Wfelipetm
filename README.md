@@ -1,7 +1,7 @@
 ## Olá! Me chamo Wallace Tavares.
 
   Sobre mim: </h3>
-   <img align="right" width="200" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 
 - 🤔 &nbsp; Explorando novas tecnologias. 
 - 🎓 &nbsp; Estudando **Desenvolvimento Full Stack** na <a href="https://estacio.br/cursos/graduacao/desenvolvimento-full-stack">Estácio</a>.
