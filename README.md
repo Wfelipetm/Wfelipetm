@@ -16,7 +16,7 @@
 </div>
 
 
-**Tecnologias que estou estudando atualmente**
+##Tecnologias que estou estudando atualmente
 
 <div style="display: inline_block"><br>
  <img align="" alt="Wallace-Python" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
