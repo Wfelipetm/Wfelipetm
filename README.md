@@ -18,7 +18,7 @@
 
 
   
-##Tecnologias que estou estudando atualmente
+**Tecnologias que estou estudando atualmente**
   
   
 
