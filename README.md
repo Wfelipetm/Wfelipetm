@@ -36,7 +36,7 @@
 </div>
 
 
-Apaixonado por tecnologia, acredito que a educação pode mudar a vida das pessoas.
+## Apaixonado por tecnologia, acredito que a educação pode mudar a vida das pessoas.
 
 
 
