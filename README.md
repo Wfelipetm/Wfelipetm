@@ -14,14 +14,11 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Wfelipetm&show_icons=True&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wfelipetm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-</h3>
 
-
+ 
+##  Tecnologias que estou estudando atualmente
   
-**Tecnologias que estou estudando atualmente**
-  
-  
-
+ 
 <div style="display: inline_block"><br>
  <img align="" alt="Wallace-Python" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
