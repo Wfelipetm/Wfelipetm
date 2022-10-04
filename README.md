@@ -9,13 +9,6 @@
 
 
 
-<div align="">
-  <a href="https://github.com/Wfelipetm">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Wfelipetm&show_icons=True&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wfelipetm&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
- 
 ##  Tecnologias que estou estudando atualmente
   
  
