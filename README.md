@@ -8,7 +8,7 @@
 - 🌱 &nbsp; Aprendendo mais sobre **Python**.
 
 ![Wfelipetm GitHub stats](https://github-readme-stats.vercel.app/api?username=Wfelipetm&show_icons=true&theme=radical)
-[![Wfelipetm](https://github-readme-stats.vercel.app/api/top-langs/?username=Wfelipetm&layout=compact)](https://github.com/Wfelipetm/github-readme-stats)
+
 
 
 ##  Tecnologias que estou estudando atualmente
