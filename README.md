@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Estudando **Desenvolvimento Full Stack** na <a href="https://estacio.br/cursos/graduacao/desenvolvimento-full-stack">Estácio</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Python**.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Wfelipetm GitHub stats](https://github-readme-stats.vercel.app/api?username=Wfelipetm&show_icons=true&theme=radical)
 
 ##  Tecnologias que estou estudando atualmente
   
