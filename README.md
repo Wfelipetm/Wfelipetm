@@ -7,11 +7,7 @@
 - 🎓 &nbsp; Estudando **Desenvolvimento Full Stack** na <a href="https://estacio.br/cursos/graduacao/desenvolvimento-full-stack">Estácio</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Python**.
 
-<div align="center">
-  <a href="https://github.com/Wfelipetm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wfelipetm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wfelipetm&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ##  Tecnologias que estou estudando atualmente
   
