@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias. 
 - 🎓 &nbsp; Estudando **Desenvolvimento Full Stack** na <a href="https://estacio.br/cursos/graduacao/desenvolvimento-full-stack">Estácio</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Python**.
+- 🌱 &nbsp; Aprendendo mais sobre **Python, HTML, CSS, JS**.
 
 
 <div>
