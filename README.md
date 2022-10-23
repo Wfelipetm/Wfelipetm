@@ -26,6 +26,7 @@
  <img align="" alt="Wallace-Ts" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
+ ##
 
 <div> 
   <a href = "mailto:wfelipetm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
