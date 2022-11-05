@@ -37,10 +37,7 @@
    
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
-  <p align=""> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/wfelipetm/count.svg" />
-</p>
+
  
 </div>
 
