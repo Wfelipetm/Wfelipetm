@@ -5,11 +5,9 @@
  <img align="" alt="Wallace-Js" height="20" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-
 <p align="center">
-  <img width="700" height="500" src="https://user-images.githubusercontent.com/108297008/205271053-fe33f40d-55ef-4e53-b2d0-93e35edd459e.png">
+  <img  width="500" height="500"src="https://user-images.githubusercontent.com/108297008/205271053-fe33f40d-55ef-4e53-b2d0-93e35edd459e.png">
 </p> 
-
 
 
 
