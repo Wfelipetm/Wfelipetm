@@ -14,7 +14,7 @@
     <img  height="40" width="60"   src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/5521973358049" target="_blank" style="display: inline-block;">
-    <img   height="40" width="60" margin-left= "10px" src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logoColor=white" />
+    <img   height="40" width="60" margin-left= "10" src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
