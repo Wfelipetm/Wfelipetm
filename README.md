@@ -14,6 +14,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://wa.me/5521973358049" target="_blank">
-    
+    <img src="[https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://s2-techtudo.glbimg.com/qsIuHxZ_g2spsqzzh3jNDCft2WE=/0x0:620x395/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/1/1/I6jD4IToSd28BHUj0nrA/2013-11-07-whatsapp-e-o-mensageiro-de-maior-sucesso-atualmente.png)" target="_blank">
   </a>
 </p>
